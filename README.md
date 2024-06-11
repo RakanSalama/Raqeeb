@@ -1,4 +1,4 @@
-# Raqeeb: Employee and Customer Activity Tracking System
+# Raqeeb: Workplace Environment Enhancement System
 
 <p align="center">
   <img src="https://github.com/RakanSalama/Raqeeb/assets/98660298/bb913a0d-dd71-4fea-a4d6-18f320c77c26" alt="ProjectLogo" width="300">
